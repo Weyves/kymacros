@@ -1,0 +1,12 @@
+C:\Users\lenny\source\repos\Kymacros\bin\Debug\Kymacros.exe.config
+C:\Users\lenny\source\repos\Kymacros\bin\Debug\Kymacros.exe
+C:\Users\lenny\source\repos\Kymacros\bin\Debug\Kymacros.pdb
+C:\Users\lenny\source\repos\Kymacros\obj\Debug\Kymacros.csprojAssemblyReference.cache
+C:\Users\lenny\source\repos\Kymacros\obj\Debug\Kymacros.Properties.Resources.resources
+C:\Users\lenny\source\repos\Kymacros\obj\Debug\Kymacros.csproj.GenerateResource.cache
+C:\Users\lenny\source\repos\Kymacros\obj\Debug\Kymacros.csproj.CoreCompileInputs.cache
+C:\Users\lenny\source\repos\Kymacros\obj\Debug\Kymacros.exe
+C:\Users\lenny\source\repos\Kymacros\obj\Debug\Kymacros.pdb
+C:\Users\lenny\source\repos\Kymacros\obj\Debug\Kymacros.Main.resources
+C:\Users\lenny\source\repos\Kymacros\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\lenny\source\repos\Kymacros\obj\Debug\Kymacros.csproj.CopyComplete
